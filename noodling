@@ -1,0 +1,6 @@
+echo "# Space_Noodle_Zip" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/gaboille/Space_Noodle_Zip.git
+git push -u origin master
